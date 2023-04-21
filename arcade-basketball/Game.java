@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Game {
   private static final int NUM_PLAYERS = 10;
   private static final int TIME_LIMIT = 10;
-  s private List<Player> players;
+  private List<Player> players;
 
   public Game() { players = new ArrayList<>(); }
 
